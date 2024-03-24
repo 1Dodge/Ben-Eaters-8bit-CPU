@@ -10,4 +10,4 @@ If you want to add new Instructions to the CPU just use the HEX Generator and lo
 
 
 ## Mainbuild
-![Mainbuild]()
+![Mainbuild](https://github.com/1Dodge/Ben-Eaters-8bit-CPU/blob/fd3b267fe6e7bd5276989affa388c856febff262/mainbuild.png)
