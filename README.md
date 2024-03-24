@@ -7,3 +7,7 @@ The code for generating the Controlword ROM has been writen by myself. Altough I
 To start just open the mainbuild.dig in the Program!
 
 If you want to add new Instructions to the CPU just use the HEX Generator and load the HEX file into the ROM of the Controlword!
+
+
+## Mainbuild
+![Mainbuild]()
